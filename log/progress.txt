@@ -1,0 +1,26 @@
+20201122
+
+* Github, Atom, Github Desktop
+
+I am trying to do this with a combination of free stuff, so I started with Atom and Github. I downloaded Github Desktop. Now Atom with Github acts like an editor with source control hooks instead of "a maze of twisty passages, all alike". It is pretty hard to miss this tip, since if you use the Github or Atom online docs you keep getting prompted to relieve your nightmare by downloading Github Desktop. It's free, so I did. 
+
+* tighten readme.md
+
+* Copy css styles and printable option from an existing doc for use in proposal doc
+
+* Use external css and js in html doc
+
+NOW
+
+NEXT
+
+> Transfer scribbled notes to proposal doc
+> Gather correspondence so far with AGPA & Dr. F
+> Sketch screens
+> Make wireframes
+> Build proposal package for AGPA
+> Cover letter for AGPA
+> Send proposal to AGPA
+
+
+
