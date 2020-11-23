@@ -1,11 +1,9 @@
-.body {
+body {
   margin-left: 10px;
 }
-.strike {
+strike {
   text-decoration: line-through;
 }
-
-/* hscc-csp-content.css - provide its contents here so that this document is easy to read when it is a stand-alone file (easy to deliver when and where needed) */
 
 #div-ContentView {
   font-family: "open_sansregular", "Helvetica", Helvetica, Arial, sans-serif;
