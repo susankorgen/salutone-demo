@@ -1,43 +1,11 @@
 <html>
 <head>
-  <style>
-    <link rel="stylesheet" href="/css/doc.css">
-  </style>
-  <script type="text/javascript">
-  function togglePrint(doPrint)
-  {
-    var div = null;
-    if (doPrint) {
-      if (confirm("This document is optimized for online viewing. Some content might not fit well in a printout. Are you sure you want to print this document?")) {
-        div = self.document.getElementById("div-Printable");
-        if (div) {
-          div.style.width = "600px";
-        }
-        div = self.document.getElementById("print_button");
-        if (div) {
-          div.value = "Return document to online display width";
-          div.setAttribute('onclick','window.togglePrint(false);');
-        }
-      }
-    }
-    else {
-      div = self.document.getElementById("div-Printable");
-      if (div) {
-        div.style.width = "1000px";
-      }
-      div = self.document.getElementById("print_button");
-      if (div) {
-        div.value = "Show document at a printable width";
-          div.setAttribute('onclick','window.togglePrint(true);');
-      }
-    }
-  }
-</script>
+<link rel="stylesheet" type="text/css" href="css/doc.css" />
+<script type="text/javascript" src="js/doc.js" ></script>
 </head>
 <body>
 <div id="div-MainView">
-<div id="div-ContentView">
-<div id="div-Printable" style="width:1000px;">
+<div id="div-ContentView" style="width:1000px;">
 <h1>Emotone Design Notes</h1>
 <p>
 November 2020
@@ -50,7 +18,7 @@ November 2020
 To be supplied.
 
 </p>
-</div>
+
 </div>
 </div>
 </body>
