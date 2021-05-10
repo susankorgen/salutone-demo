@@ -1,4 +1,4 @@
-# emotone-demo
+# salutone-demo
 An original, full-stack application, created and coded by Susan Korgen. It showcases product design and planning, health/clinical/scientific UI/UX, a REST API, back end database access, healthcare data interoperability via FHIR, agile project planning, sensitivity to patient concerns, and more. 
 
 This demo balances competing concerns for clinical realism, medical privacy, and a need to demo healthcare data skills, by creating a fiction. The therapeutic approach, data metrics, patients, providers, and protocols for group meetings and care coordination, are fictions. It's a code demo. 
