@@ -1,0 +1,181 @@
+/*
+ *  doc.css by susan.korgen 2020
+ *    - tweaks the CSS stylesheet I wrote for CMC project documentation 2016
+ *    - uses color values from the CMC care plan authoring and viewing UI
+ *    - keeping it around to use generally as needed for quickly styling HTML
+ */
+body {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+strike {
+  text-decoration: line-through;
+}
+
+#div-ContentView {
+  font-family: "open_sansregular", "Helvetica", Helvetica, Arial, sans-serif;
+  padding-top: 0px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  overflow-x: hidden;
+}
+
+#div-ContentView h1 { /* like cp-SectionTitle */
+  font-family: "open_sansregular", "Helvetica", Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+#div-ContentView h2 { /* like cp-SectionSubtitle */
+  font-family: "open_sansregular", "Helvetica", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+#div-ContentView h3 {
+  font-family: "open_sansregular", "Helvetica", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#div-ContentView p,
+#div-ContentView div,
+#div-ContentView td,
+#div-ContentView ul li,
+#div-ContentView ol li { /* like cp-SectionText */
+  font-family: "open_sansregular", "Helvetica", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  color: rgb(60,60,60);
+  padding-top: 3px;
+  padding-bottom: 3px;
+  text-align: left;
+}
+
+#div-ContentView table tr th {
+  font-family: "open_sansregular", "Helvetica", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  color: rgb(60,60,60);
+  padding: 9px 12px 9px 12px;
+  text-align: left;
+  font-weight: 700;
+}
+
+#div-ContentView table tr td {
+  font-family: "open_sansregular", "Helvetica", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  color: rgb(60,60,60);
+  padding: 0px 12px 0px 12px;
+  text-align: left;
+  font-weight: normal;
+  vertical-align:top;
+}
+
+#div-ContentView b,
+#div-ContentView div b,
+#div-ContentView p b,
+#div-ContentView li b,
+#div-ContentView ul li b,
+#div-ContentView ol li b { /* like other "bold" text in the style sheet */
+  font-family: "open_sansregular", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+#div-ContentView i,
+#div-ContentView div i,
+#div-ContentView p i,
+#div-ContentView li i,
+#div-ContentView ul li i,
+#div-ContentView ol li i {
+  font-family: "open_sansregular", "Helvetica", Helvetica, Arial, sans-serif;
+  font-style: italic;
+}
+
+#div-ContentView pre,
+#div-ContentView div pre,
+#div-ContentView p pre,
+#div-ContentView li pre,
+#div-ContentView ul li pre,
+#div-ContentView ol li pre {
+  font-family: "Courier New", "Courier", monospace;
+  font-size: 14px;
+  color: rgb(0,0,0);
+  font-weight: normal;
+}
+
+#div-ContentView a,
+#div-ContentView div a,
+#div-ContentView p a,
+#div-ContentView ul li a,
+#div-ContentView ol li a {
+  color:rgb(20,149,204);
+  text-decoration: none;
+  font-size: 15px;
+  font-weight:normal;
+  cursor:pointer;
+}
+
+tr.zebraOn td {
+  vertical-align: top;
+  background-color: rgb(240,240,240);
+}
+
+tr.zebraOff td {
+  vertical-align: top;
+  background-color: rgb(255,255,255);
+}
+
+#div-ContentView table tr td p.accordion {
+  background-color: rgb(250,250,250);
+  color: rgb(200,200,200);
+  font-size: 13pt;
+  font-weight: 700;
+  margin-top: 12px;
+  cursor: pointer;
+}
+
+#div-ContentView table tr td p a.p_detail,
+#div-ContentView table tr td p.accordion span {
+  background-color: rgb(250,250,250);
+  color: rgb(200,200,200);
+  font-size: 13pt;
+  font-weight: 700;
+  margin-top: 0px;
+  cursor: pointer;
+}
+
+#div-ContentView table tr td p.p_detail {
+  display:none;
+}
+
+#div-ContentView table tr td p span.link_enabled {
+  display:block;
+}
+#div-ContentView table tr td p span.link_disabled {
+  display:none;
+}
+
+#div-ContentView p.p_tiny {
+  font-size: 8pt;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+#div-ContentView a.a_tiny {
+  font-size: 8pt;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  color:rgb(20,149,204);
+  text-decoration: none;
+  font-weight:normal;
+  cursor:pointer;
+}
