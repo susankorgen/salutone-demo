@@ -1,0 +1,25 @@
+20210510
+
+DONE
+
+> (0-50%) Transfer scribbled notes to proposal doc (PDF)
+> Generally identify code stack, tools
+
+IN PROGRESS
+
+
+
+TO DO
+
+> (51-100%) Transfer scribbled notes to proposal doc
+> Include Word doc source in repo, not just PDF
+> Dr. M to assign fictional diagnoses based on characters' cognitive artifacts
+> Sketch screens
+> Make wireframes
+> Gather correspondence so far with AGPA & Dr. F
+> Refine proposal for AGPA (Mass General, McLean)
+> Cover letter for AGPA (reference: Dr. F)
+> Send proposal to AGPA
+> Prototyping: be able to demo some action
+> Specifics of code stack, tools
+> Dig into demo of coding skills

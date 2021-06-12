@@ -1,0 +1,23 @@
+20210612
+
+DONE
+
+
+
+IN PROGRESS
+
+> (51-100%) Transfer scribbled notes to proposal doc
+> Include Word doc source in repo, not just PDF
+> Dr. M to assign fictional diagnoses based on characters' cognitive artifacts
+
+TO DO
+
+> Sketch screens
+> Make wireframes
+> Gather correspondence so far with AGPA & Dr. F
+> Refine proposal for AGPA (Mass General, McLean)
+> Cover letter for AGPA (reference: Dr. F)
+> Send proposal to AGPA
+> Prototyping: be able to demo some action
+> Specifics of code stack, tools
+> Dig into demo of coding skills
