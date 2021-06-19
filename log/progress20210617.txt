@@ -1,0 +1,21 @@
+20210617
+
+DONE
+
+> (remaining 51-100%) Transfer scribbled notes to proposal doc
+
+IN PROGRESS
+
+> Sketch screens
+> Make wireframes
+
+TO DO
+
+> Receive and use player persona feedback from Dr. M
+> Gather correspondence so far with AGPA & Dr. F
+> Refine proposal for AGPA (Mass General, McLean)
+> Cover letter for AGPA (reference: Dr. F)
+> Send proposal to AGPA
+> Prototyping: be able to demo some action
+> Specifics of code stack, tools
+> Dig into demo of coding skills
