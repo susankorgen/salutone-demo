@@ -1,0 +1,25 @@
+20210621
+
+DONE
+
+> Receive player persona feedback from Dr. M based on 9 photo sets
+> Save player diagnosis, mood, thoughts as text - survey responses from Dr. M
+> Gather correspondence so far with AGPA & Dr. F
+
+IN PROGRESS
+
+> Save image assets from 6 photo sets that Dr. M described as fictional patients
+> Follow-up call and send proposal to AGPA (reference: Dr. F)
+> AGPA: American Group Psychology Association
+
+TO DO
+
+> Sketch screens
+> Make wireframes
+> Prototyping: be able to demo some action
+> Application architecture
+> API specification
+> Storage design
+> Access / Permission, by persona
+> Workflow / Events, by persona
+> Consider proposals for Mass General, McLean
